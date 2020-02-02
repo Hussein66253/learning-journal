@@ -7,4 +7,11 @@ Also you can learn more about the Text editor by clicking [Here](https://codefel
 ![Termenal](https://live.staticflickr.com/3820/18662051223_3296fde8e4_b.jpg)
 ####  command line or terminal is a text based interface to the system. which mean you will be entering the command you wanted as a text and the outcomes will shown as text just as like what you write in the command
 Also you can learn more about the Termenal by clicking [Here](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf) 
-### For an example
+### For an example:
+* We can use **pwd** which stands for Print Working Directory it tells us what our current or present working directory is.
+* we can also use  **ls.** It's short for list it  tells us what is there (Folders and Files)
+## What is file extensionless?
+file extensionless is a few characters written after a full stop at the end of a file that told us  what type of file it is the next is some of file extensionless:
+* **file.exe** an executable file, or program.
+* **file.txt** a plain text file.
+* **file.png, file.gif, file.jpg** an image.
