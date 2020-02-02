@@ -3,3 +3,5 @@
 ### Markdown mastring start with learining the basics I will provid some it below :
 * making a word bold by using ** ** and the wanted text to be bold insid so we can say: the following text will be bold **this text is bold**
 * also we can use __ __ and the wanted text to be bold insid so we can say:the following text will be bold __this text is bold__
+### we can add some images by using the same way to the link but we need we need to add the ! before the [] () 
+for example : ![house](https://cdn.pixabay.com/photo/2016/07/20/18/04/new-home-1530833_960_720.jpg)
