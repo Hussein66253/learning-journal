@@ -5,3 +5,7 @@
 * also we can use __ __ and the wanted text to be bold insid so we can say:the following text will be bold __this text is bold__
 ### we can add some images by using the same way to the link but we need we need to add the ! before the [] () 
 for example : ![house](https://cdn.pixabay.com/photo/2016/07/20/18/04/new-home-1530833_960_720.jpg)
+### In the words of Abraham Lincoln:
+> Pardon my French
+### we can quoting code by using single backticks. The text within the backticks will not be formatted
+ *this link `will lead` you to and its will help you*
