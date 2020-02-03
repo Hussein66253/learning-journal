@@ -12,4 +12,4 @@ An inherent Git tool called git config allows the setting of configuration varia
 2. Then users need to `immediately` set the user name and email address, which will be used for every Git commit.  
 3. To more information vist this [link](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)  
 ### Important command
-* Users can also create a copy of an existing Git repository from a particular server 
+* Users can also create a copy of an existing Git repository from a particular server using ***clone*** 
