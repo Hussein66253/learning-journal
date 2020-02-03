@@ -12,8 +12,8 @@
 > Pardon my French
 # we can quoting code by using single backticks. The text within the backticks will not be formatted
  *this link `will lead` you to and its will help you*
- for further information visit the next link:
+ for further information visit the next link:  
  Name | Link
 ------------ | -------------
-Learn | [Visit us](https://hussein66253.github.io/learning-journal/learn)
-text editor | [Visit](https://hussein66253.github.io/learning-journal/text%20editor)
+1. Learn | [Visit us](https://hussein66253.github.io/learning-journal/learn)
+2. text editor | [Visit](https://hussein66253.github.io/learning-journal/text%20editor)
