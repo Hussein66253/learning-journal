@@ -10,8 +10,6 @@
  * the ***CPU*** is the brains of the computer where most calculations take place.
  4. ***Output***  
  * compiling those four elements together make to us ***computer*** 
- 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Information_processing_system_%28english%29.svg/1280px-Information_processing_system_%28english%29.svg.png " alt="computers proccess"> 
 
 ## what is a binary numbers can used for?
 * As we said above binary numbers are 0 and 1 using this 0 and 1 we can:
