@@ -16,8 +16,8 @@
   but the <script></script>) tag should be at the ***last line on the body***
 
   ## We can clone a repo to our local vs code by :
-   1. first thing is we open *Upunto*
-2. then create a folder to *clone the repo* into ***(mkdir folder name)***
+   1. first thing is we *open* ***Upunto***
+2. then *create* a folder to *clone the repo* into ***(mkdir folder name)***
 3. *open* the folder ***(cd folder name)***
-4. clone the repo from the link that we had (clone (url))
+4. *clone *the repo from the link that we had *(clone (url))*
 5. then we *open* it ***(cd its name)***
